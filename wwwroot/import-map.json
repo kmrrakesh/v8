@@ -1,0 +1,15 @@
+{
+  "imports": {
+    "lit-html": "/node_modules/lit-html/lit-html.js",
+    "lit-html/": "/node_modules/lit-html/",
+    "lit-element": "/node_modules/lit-element/lit-element.js",
+    "lit-element/": "/node_modules/lit-element/",
+    "lit-i18n/": "/node_modules/lit-i18n/",
+    "@trapezegroup/": "/node_modules/@trapezegroup/",
+    "ag-grid-community/": "/node_modules/ag-grid-community/",
+    "jquery/": "/node_modules/jquery/",
+    "i18next": "./node_modules/i18next/dist/esm/i18next.js",
+    "i18next-xhr-backend": "./node_modules/i18next-xhr-backend/dist/esm/i18nextXHRBackend.js",
+    "i18next-browser-languagedetector": "./node_modules/i18next-browser-languagedetector/dist/esm/i18nextBrowserLanguageDetector.js"
+  }
+}

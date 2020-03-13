@@ -1,0 +1,32 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "trapeze default ui",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Scot",
+  "license": "ISC",
+  "dependencies": {
+    "@trapezegroup/core-js-app": "^1.0.0",
+    "@trapezegroup/core-js-browser": "^1.0.0",
+    "@trapezegroup/core-js-excel": "^1.0.0",
+    "@trapezegroup/core-js-extensions": "^1.0.0",
+    "@trapezegroup/core-js-icons": "^1.0.1",
+    "@trapezegroup/core-js-tcftypes": "^1.0.0",
+    "@trapezegroup/core-wc-buttons": "^0.1.1-alpha.13",
+    "@trapezegroup/core-wc-inputs": "^1.0.1",
+    "@trapezegroup/core-wc-layout": "^0.2.0-alpha.2",
+    "@trapezegroup/core-wc-mixins": "^1.2.1",
+    "@trapezegroup/core-wc-modal": "^1.0.1",
+    "@trapezegroup/core-wc-notification": "^1.0.1",
+    "@trapezegroup/core-wc-workspace": "^1.0.2",
+    "@trapezegroup/core-webui-styles": "^0.6.11",
+    "es-module-shims": "^0.4.6",
+    "jquery": "^3.4.1"
+  }
+}
