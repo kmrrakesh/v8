@@ -27,6 +27,6 @@
     "@trapezegroup/core-wc-workspace": "^1.0.2",
     "@trapezegroup/core-webui-styles": "^0.6.11",
     "es-module-shims": "^0.4.6",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
